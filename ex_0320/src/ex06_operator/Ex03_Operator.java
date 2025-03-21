@@ -1,5 +1,7 @@
 package ex06_operator;
 
+import java.util.Scanner;
+
 public class Ex03_Operator {
 	public static void main(String[] args) {
 	
@@ -40,6 +42,34 @@ public class Ex03_Operator {
 		System.out.println(result);
 		
 		
+		int xx =5 ;
+		int yy = xx++;
+		System.out.println(xx+""+yy);
+		
+		
+		int xxx = 10;
+		int yyy = 20;
+		int zzz = (++xxx + yyy--);
+		System.out.println(zzz);
+		
+		
+		int aa = 10;
+		int bb = 12;
+		boolean result11= ++aa >= bb || 2+7 <= bb && 13 -bb >= 0 && (aa+=bb)-(aa%bb) >10;
+		System.out.println(result11);
+		
+		Scanner scan = new Scanner(System.in);
+		
+
+		System.out.print("수학 점수 : ");
+		int math = scan.nextInt();
+		System.out.print("국어 점수 : ");
+		int kor = scan.nextInt();
+		System.out.print("영어 점수 : ");
+		int en = scan.nextInt();
+		System.out.println("총점 : " + (math+kor+en));
+		System.out.println("평균 : " + (math+kor+en)/3);
+		System.out.println((math+kor+en)/3 >= 40 && kor >=40 &&math >=40 &&en >=40 && (math+kor+en)/3>=60? "합격":"불합격");
 	}
 	
 	

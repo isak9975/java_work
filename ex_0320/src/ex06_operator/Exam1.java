@@ -8,7 +8,7 @@ public class Exam1 {
 		// x 개의 농구공을 담기 위한 박스의 개수를 구하세요
 		// 농구공의 개수는 키보드를 통해 입력 받습니다.
 		
-		Scanner scanner = new Scanner(System.in);
+//		Scanner scanner = new Scanner(System.in);
 		
 //		System.out.print("농구공 개수를 입력해 주세요 : ");
 //		int ball = scanner.nextInt();

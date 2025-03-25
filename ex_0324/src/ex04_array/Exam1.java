@@ -1,9 +1,7 @@
 package ex04_array;
 
 import java.util.Random;
-import java.util.Scanner;
 
-import javax.xml.stream.events.EndDocument;
 
 public class Exam1 {
 	public static void main(String[] args) {
@@ -162,7 +160,7 @@ System.out.println("============================================================
 		//배열의 길이 : 5
 		//ABCDE
 		
-		Scanner scan = new Scanner(System.in);
+//		Scanner scan = new Scanner(System.in);
 //		
 //		System.out.printf("배열의 길이를 입력하세요 : ");
 //		int arraynum = scan.nextInt();

@@ -1,11 +1,10 @@
 package ex04_array;
 
-import java.lang.reflect.AnnotatedArrayType;
 
 public class ex01_array {
 	public static void main(String[] args) {
-		String[] array1 = null;
-		String array2[] = null;
+//		String[] array1 = null;
+//		String array2[] = null;
 		//대괄호[]는 배열의 연산자를 의미
 		//자료형 뒤에 붙이거나 변수명 뒤에 붙이면 해당 자료형은 배열이라는 의미로 선언된다.
 		//자료형 뒤에 붙이는 것이 가독성이 좋아 자주 사용된다
@@ -13,11 +12,11 @@ public class ex01_array {
 		//배열을 생성하기 위해서는 'new' 키워드를 사용해야함. 
 		//메모리의 공간 확보 
 		
-		int [] arr;//배열선언
-		arr = new int[] {
-				1,2,3,4,5 // 배열 재정의
-		};
-		//null
+//		int [] arr;//배열선언
+//		arr = new int[] {
+//				1,2,3,4,5 // 배열 재정의
+//		};
+//		//null
 		//변수를 만들때 초기활르 하지 않으면 자료형에 맞는 아무값이(쓰레기값) 들어간다.
 		//배열을 선언만 하고 생성하지 않을 경우, 시스템은 배열을 만들때 null 이라는 키워드를 부여한다.
 		//null 의 의미는 없다 라는 의미를 가진다.

@@ -1,7 +1,6 @@
 package ex02_break;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Exam1 {
 	public static void main(String[] args) {
@@ -14,7 +13,7 @@ public class Exam1 {
 		
 		//정답을 x 번만에 맞췄습니다.
 		
-		Scanner scan = new Scanner(System.in);
+//		Scanner scan = new Scanner(System.in);
 		
 		Random r = new Random();
 		int random = r.nextInt(50)+1;
@@ -26,7 +25,7 @@ public class Exam1 {
 		out:while(true) {
 		System.out.println("누적 시도 횟수 : "+ rotation);
 		System.out.printf("숫자를 입력해 주세요 : ");
-		num = scan.nextInt();
+//		num = scan.nextInt();
 		rotation++; //횟수 증가
 		
 		if(num == random){

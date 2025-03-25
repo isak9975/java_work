@@ -1,4 +1,4 @@
-package ex04_array;import java.lang.reflect.AnnotatedArrayType;
+package ex04_array;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Random;
@@ -107,7 +107,7 @@ public class Ex02_Arrays {
 		int[][] arr3 = new int[3][];
 		
 		//각 배열의 크기를 각각 선언하여 사용할 수 있다.
-		int[][] arr4 = new int[3][2];
+//		int[][] arr4 = new int[3][2];
 		
 		arr3[0] = new int[2];	
 		arr3[0] = new int[3];

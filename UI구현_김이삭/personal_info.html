@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        body{background-color: rgb(226, 239, 248);
+            padding: 0px;
+            margin: 0px;    
+            height: 100vh;        
+            width: 60vh;
+        }
+    
+
+        input {
+            width: 70px;
+        }
+
+        table{
+            background-color: white;
+        }
+
+        td{
+            border: 1px solid black;
+            padding: 5px;
+        }
+        
+
+        .header{
+            background-color: rgb(3, 3, 182);
+            text-align: center;
+            color: white;
+        }
+
+        .container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-left: 100px;
+            margin-top : 100px;
+        }
+
+        .button button{
+            background-color:rgb(3, 3, 182);
+        }
+
+        .button button a{
+            text-decoration: none;
+            color: white;
+            background-color: rgb(3, 3, 182);
+        }
+
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div >
+            <h2>개인정보입력 폼</h2>
+        </div>
+        <div>
+            <table style="border: 1px solid black;">
+                <tr class="header">
+                    <td colspan="2">개인정보</td>
+                </tr>
+                <tr>
+                    <td>주민번호</td>
+                    <td>
+                        <input type="text">-
+                        <input type="text">
+                        <input type="button" value="검증">
+                    </td>
+                </tr>
+                <tr>
+                    <td>생일</td>
+                    <td>
+                        <input type="text">년
+                        <input type="text">월
+                        <input type="text">일
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>성별</td>
+                    <td>
+                        <input name="radio" type="radio">남자
+                        <input name="radio" type="radio">여자
+                    </td>
+                </tr>
+                <tr>
+                    <td>관심분야</td>
+                    <td style="padding: 0px;">
+                        <input type="checkbox">여행
+                        <input type="checkbox">영화
+                        <input type="checkbox">독서
+                        <input type="checkbox">음악
+                        <input type="checkbox">관심없음
+                    </td>
+                </tr>
+                <tr>
+                    <td>자기소개</td>
+                    <td><textarea style="height: 100px; width: 90%;"></textarea></td>
+                </tr>
+
+            </table>
+        </div>
+        <div class="button"></div>
+            <button type="button"><a href="board.html">수정완료</a></button>
+        </div>
+
+    </div>
+</body>
+</html>

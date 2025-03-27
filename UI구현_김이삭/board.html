@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        body{background-color: rgb(226, 239, 248);
+            padding: 0px;
+            margin: 0px;            
+        }
+
+        .container{
+             height: 100vh;
+            width: 100vh; 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+        }
+
+        table{
+            width: 670px;
+            border-top: 5px solid gray;
+            border-bottom: 5px solid gray;
+        }
+
+        td{
+            border-bottom: 1px black solid;
+            padding : 8px
+        }
+
+        
+
+
+        tr:hover{
+            background-color: rgb(248, 248, 191);
+        }
+        
+
+        .button{
+            margin-top: 30px;
+        }
+
+        .button input{
+            background-color: rgb(3, 3, 182);
+            border-radius: 3px;
+            font-size: 15px;
+            padding: 10px;
+            color :white;
+        }
+
+        #bottom td{
+            border: none;
+        }
+
+    </style>
+
+    <script>
+
+        document.querySelector("#logout").addEventListener("click"){
+            location.href ="/login.html/"
+        }
+        document.querySelector("#register").addEventListener("click"){
+
+        }
+    </script>
+    
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>자유게시판</h2>
+        </div>
+        <div>
+            <table>
+                <tr style="background-color: gray;">
+                    <td> 순번</td><td>제목</td><td>작성자</td><td>작성일</td><td>조회수</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>이용후기</td>
+                    <td>존윅</td>                   
+                    <td>2021-04-22</td>
+                    <td>20</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>게시판이용문의</td>
+                    <td>제임스</td>                   
+                    <td>2021-04-22</td>
+                    <td>15</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>가입인사</td>
+                    <td>새내기</td>                   
+                    <td>2021-04-21</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>[필독]게시판이용안내</td>
+                    <td>매니저</td>                   
+                    <td>2021-04-21</td>
+                    <td>94</td>
+                </tr>
+                <tr id="bottom">
+                    <td >1</td>
+                    <td>[긴급]공지사항</td>
+                    <td>관리자</td>                   
+                    <td>2021-04-20</td>
+                    <td>85</td>
+                </tr>
+
+                
+
+            </table>
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: center;" >
+            <div class="button" >
+               <input id="logout" type="button" value="로그아웃">
+                <input id="register" type="button" value="개인정보수정">
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

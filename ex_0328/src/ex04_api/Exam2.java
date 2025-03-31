@@ -56,7 +56,7 @@ public class Exam2 {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("문자열을 입력 하세요 : ");
 		String str3 = scan.next();
-		
+	
 		
 //		String str3 = "건조한조건";
 			if(str3.trim().length()<0) {

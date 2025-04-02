@@ -1,6 +1,8 @@
 package ex03_map;
 
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Ex02 {
@@ -32,6 +34,8 @@ public class Ex02 {
 			System.out.print("pw : ");
 			int pw = scan.nextInt();
 			
+			System.out.println(map.get(id));
+			
 			if(map.containsKey(id)&&map.get(id).intValue()==pw) {			
 				System.out.println("로그인 성공");
 				return;
@@ -49,6 +53,7 @@ public class Ex02 {
 				continue out;
 			}
 			
-		}
-	}
+		}		
+		
+	}//end main	
 }

@@ -1,4 +1,4 @@
-!SESSION 2025-04-02 09:30:28.487 -----------------------------------------------
+!SESSION 2025-04-03 09:38:30.924 -----------------------------------------------
 eclipse.buildId=4.32.0.20240606-1231
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -7,9 +7,9 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 This is a continuation of log file D:\kimisak\java\java_work\.metadata\.bak_1.log
-Created Time: 2025-04-02 18:03:34.998
+Created Time: 2025-04-03 18:06:01.269
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:34.998
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:01.269
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -68,7 +68,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:34.999
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.452
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -127,7 +127,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.308
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.453
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -186,7 +186,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.308
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.453
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -245,7 +245,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.308
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.669
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -304,7 +304,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.640
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.670
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -363,7 +363,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.641
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:05.670
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -422,7 +422,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:35.642
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:06.708
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -481,7 +481,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:39.325
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:06.709
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -540,7 +540,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:39.325
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:06.709
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -599,7 +599,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:39.326
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:12.370
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -658,7 +658,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:40.423
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:12.371
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -717,7 +717,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:40.424
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:12.371
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -776,7 +776,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:40.424
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:13.046
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -835,7 +835,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.130
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:13.047
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -894,7 +894,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.131
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:13.047
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -953,7 +953,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.131
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:14.596
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1012,7 +1012,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.609
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:14.597
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1071,7 +1071,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.609
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:14.597
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1130,7 +1130,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:45.610
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:17.856
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1189,7 +1189,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:53.745
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:17.857
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1248,7 +1248,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:53.745
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:17.857
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1307,7 +1307,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:53.746
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:18.097
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1366,7 +1366,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:54.831
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:18.097
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1425,7 +1425,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:54.831
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:18.097
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1484,7 +1484,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:03:54.832
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:19.036
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1543,7 +1543,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:05.300
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:19.036
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1602,7 +1602,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:05.300
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:19.036
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1661,7 +1661,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:05.301
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:23.671
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1720,7 +1720,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.196
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:23.671
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1779,7 +1779,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.196
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:23.672
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1838,7 +1838,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.196
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.498
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1897,7 +1897,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.357
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.498
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -1956,7 +1956,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.358
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.498
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2015,7 +2015,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:04:08.359
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.711
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2074,7 +2074,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:21.019
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.711
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2133,7 +2133,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:21.019
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:24.712
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2192,7 +2192,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:21.020
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:25.436
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2251,7 +2251,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.213
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:25.436
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2310,7 +2310,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.213
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:25.437
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2369,7 +2369,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.214
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:29.601
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2428,7 +2428,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.577
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:29.602
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2487,7 +2487,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.578
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:29.602
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2546,7 +2546,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:05:45.578
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:32.415
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2605,7 +2605,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.735
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:32.415
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2664,7 +2664,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.735
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:32.415
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2723,7 +2723,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.735
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:34.551
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2782,7 +2782,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.987
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:34.551
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2841,7 +2841,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.987
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:34.552
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2900,7 +2900,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:36.988
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:36.854
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -2959,7 +2959,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.213
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:36.854
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3018,7 +3018,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.214
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:36.854
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3077,7 +3077,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.214
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:39.354
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3136,7 +3136,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.830
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:39.355
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3195,7 +3195,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.831
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:39.355
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3254,7 +3254,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:37.831
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:41.476
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3313,7 +3313,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.297
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:41.477
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3372,7 +3372,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.297
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:06:41.477
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3431,7 +3431,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.298
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:31.000
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3490,7 +3490,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.659
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:31.001
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3549,7 +3549,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.660
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:31.001
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3608,7 +3608,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:38.660
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:35.532
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3667,7 +3667,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:39.093
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:35.532
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3726,7 +3726,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:39.094
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:35.532
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3785,7 +3785,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:39.094
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:36.344
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3844,7 +3844,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:53.878
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:36.345
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3903,7 +3903,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:53.878
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:07:36.345
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -3962,7 +3962,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:53.878
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:54.958
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4021,7 +4021,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:54.633
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:54.959
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4080,7 +4080,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:54.634
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:54.959
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4139,7 +4139,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:54.634
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:57.339
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4198,7 +4198,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:55.781
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:57.340
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4257,7 +4257,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:55.781
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:57.340
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4316,7 +4316,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:06:55.781
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:58.286
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4375,7 +4375,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.681
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:58.286
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4434,7 +4434,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.682
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:08:58.287
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4493,7 +4493,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.682
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:00.169
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4552,7 +4552,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.899
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:00.169
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4611,7 +4611,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.900
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:00.170
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4670,7 +4670,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:18.900
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:01.850
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4729,7 +4729,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:44.035
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:01.851
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4788,7 +4788,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:44.036
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:01.851
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4847,7 +4847,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:07:44.036
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:04.773
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4906,7 +4906,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.071
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:04.774
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -4965,7 +4965,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.072
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:04.774
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5024,7 +5024,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.072
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:08.993
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5083,7 +5083,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.087
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:08.993
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5142,7 +5142,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.088
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:08.994
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5201,7 +5201,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.088
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:15.026
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5260,7 +5260,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.096
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:15.027
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5319,7 +5319,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.097
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:15.027
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5378,7 +5378,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.097
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:29.221
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5437,7 +5437,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.108
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:29.222
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5496,7 +5496,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.109
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:29.222
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5555,7 +5555,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.109
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:30.496
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5614,7 +5614,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.115
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:30.497
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5673,7 +5673,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.116
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:30.497
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5732,7 +5732,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.116
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.004
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5791,7 +5791,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.127
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.005
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5850,7 +5850,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.128
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.005
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5909,7 +5909,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.128
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.704
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -5968,7 +5968,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.142
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.705
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6027,7 +6027,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.142
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.706
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6086,7 +6086,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.143
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.923
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6145,7 +6145,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.150
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.923
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6204,7 +6204,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.150
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:31.923
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6263,7 +6263,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.151
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.087
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6322,7 +6322,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.157
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.088
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6381,7 +6381,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.157
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.089
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6440,7 +6440,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.157
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.285
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6499,7 +6499,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.164
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.285
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6558,7 +6558,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.164
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.287
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6617,7 +6617,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.164
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.474
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6676,7 +6676,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.181
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.474
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6735,7 +6735,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.181
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.474
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6794,7 +6794,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.182
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.680
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6853,7 +6853,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.198
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.681
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6912,7 +6912,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.198
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:32.681
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -6971,7 +6971,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.199
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:48.707
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7030,7 +7030,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.232
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:48.707
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7089,7 +7089,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.232
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:48.707
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7148,7 +7148,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.233
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:54.050
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7207,7 +7207,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.251
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:54.050
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7266,7 +7266,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.252
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:09:54.050
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7325,7 +7325,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.252
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:00.597
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7384,7 +7384,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.289
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:00.598
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7443,7 +7443,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.289
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:00.598
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7502,7 +7502,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.290
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.471
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7561,7 +7561,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.309
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.471
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7620,7 +7620,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.310
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.471
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7679,7 +7679,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.310
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.997
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7738,7 +7738,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.330
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.998
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7797,7 +7797,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.330
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:02.998
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7856,7 +7856,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.331
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:04.161
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7915,7 +7915,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.354
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:04.162
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -7974,7 +7974,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.355
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:04.162
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8033,7 +8033,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.355
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:07.132
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8092,7 +8092,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.378
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:07.133
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8151,7 +8151,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.378
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:07.133
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8210,7 +8210,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.378
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:10.825
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8269,7 +8269,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.425
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:10.825
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8328,7 +8328,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.425
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:10.826
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8387,7 +8387,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.425
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:15.174
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8446,7 +8446,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.481
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:15.174
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8505,7 +8505,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.481
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:15.174
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8564,7 +8564,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.482
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.591
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8623,7 +8623,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.844
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.591
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8682,7 +8682,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.844
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.591
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8741,7 +8741,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.844
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.807
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8800,7 +8800,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.942
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.807
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8859,7 +8859,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.942
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:10:17.808
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8918,7 +8918,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:57.943
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:12:53.862
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -8977,7 +8977,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:58.252
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:12:53.862
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
@@ -9036,243 +9036,7 @@ Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.
 	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
 	... 46 more
 
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:58.253
-!MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-!STACK 0
-java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:285)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$FieldReflectionAdapter.createAccumulator(ReflectiveTypeAdapterFactory.java:552)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:505)
-	at com.google.gson.Gson.fromJson(Gson.java:1361)
-	at com.google.gson.Gson.fromJson(Gson.java:1262)
-	at com.google.gson.Gson.fromJson(Gson.java:1171)
-	at com.google.gson.Gson.fromJson(Gson.java:1107)
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.load(LanguageConfiguration.java:270)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationDefinition.getLanguageConfiguration(LanguageConfigurationDefinition.java:157)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.AbstractLanguageConfigurationRegistryManager.getLanguageConfigurationFor(AbstractLanguageConfigurationRegistryManager.java:51)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationRegistryManager.getLanguageConfigurationFor(LanguageConfigurationRegistryManager.java:1)
-	at org.eclipse.tm4e.languageconfiguration.internal.HasLanguageConfigurationPropertyTester.test(HasLanguageConfigurationPropertyTester.java:52)
-	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
-	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
-	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
-	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
-	at org.eclipse.core.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:72)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isCoreExpressionVisible(ContributionsAnalyzer.java:263)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isVisible(ContributionsAnalyzer.java:237)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.computeVisibility(ContributionRecord.java:167)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:98)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:173)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:184)
-	at org.eclipse.ui.internal.WorkbenchWindow.lambda$3(WorkbenchWindow.java:864)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4058)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3676)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
-Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.internal.utils.NullSafetyHelper.lazyNonNull()'
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.<init>(LanguageConfiguration.java:367)
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
-	... 46 more
-
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:12:58.253
-!MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-!STACK 0
-java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:285)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$FieldReflectionAdapter.createAccumulator(ReflectiveTypeAdapterFactory.java:552)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:505)
-	at com.google.gson.Gson.fromJson(Gson.java:1361)
-	at com.google.gson.Gson.fromJson(Gson.java:1262)
-	at com.google.gson.Gson.fromJson(Gson.java:1171)
-	at com.google.gson.Gson.fromJson(Gson.java:1107)
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.load(LanguageConfiguration.java:270)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationDefinition.getLanguageConfiguration(LanguageConfigurationDefinition.java:157)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.AbstractLanguageConfigurationRegistryManager.getLanguageConfigurationFor(AbstractLanguageConfigurationRegistryManager.java:51)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationRegistryManager.getLanguageConfigurationFor(LanguageConfigurationRegistryManager.java:1)
-	at org.eclipse.tm4e.languageconfiguration.internal.HasLanguageConfigurationPropertyTester.test(HasLanguageConfigurationPropertyTester.java:52)
-	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
-	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
-	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
-	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
-	at org.eclipse.core.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:72)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isCoreExpressionVisible(ContributionsAnalyzer.java:263)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isVisible(ContributionsAnalyzer.java:237)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.computeVisibility(ContributionRecord.java:167)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:98)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:173)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:184)
-	at org.eclipse.ui.internal.WorkbenchWindow.lambda$3(WorkbenchWindow.java:864)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4058)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3676)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
-Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.internal.utils.NullSafetyHelper.lazyNonNull()'
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.<init>(LanguageConfiguration.java:367)
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
-	... 46 more
-
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:13:02.119
-!MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-!STACK 0
-java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:285)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$FieldReflectionAdapter.createAccumulator(ReflectiveTypeAdapterFactory.java:552)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:505)
-	at com.google.gson.Gson.fromJson(Gson.java:1361)
-	at com.google.gson.Gson.fromJson(Gson.java:1262)
-	at com.google.gson.Gson.fromJson(Gson.java:1171)
-	at com.google.gson.Gson.fromJson(Gson.java:1107)
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.load(LanguageConfiguration.java:270)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationDefinition.getLanguageConfiguration(LanguageConfigurationDefinition.java:157)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.AbstractLanguageConfigurationRegistryManager.getLanguageConfigurationFor(AbstractLanguageConfigurationRegistryManager.java:51)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationRegistryManager.getLanguageConfigurationFor(LanguageConfigurationRegistryManager.java:1)
-	at org.eclipse.tm4e.languageconfiguration.internal.HasLanguageConfigurationPropertyTester.test(HasLanguageConfigurationPropertyTester.java:52)
-	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
-	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
-	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
-	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
-	at org.eclipse.core.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:72)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isCoreExpressionVisible(ContributionsAnalyzer.java:263)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isVisible(ContributionsAnalyzer.java:237)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.computeVisibility(ContributionRecord.java:167)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:98)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:173)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:184)
-	at org.eclipse.ui.internal.WorkbenchWindow.lambda$3(WorkbenchWindow.java:864)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4058)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3676)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
-Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.internal.utils.NullSafetyHelper.lazyNonNull()'
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.<init>(LanguageConfiguration.java:367)
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
-	... 46 more
-
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:13:02.120
-!MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-!STACK 0
-java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:285)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$FieldReflectionAdapter.createAccumulator(ReflectiveTypeAdapterFactory.java:552)
-	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:505)
-	at com.google.gson.Gson.fromJson(Gson.java:1361)
-	at com.google.gson.Gson.fromJson(Gson.java:1262)
-	at com.google.gson.Gson.fromJson(Gson.java:1171)
-	at com.google.gson.Gson.fromJson(Gson.java:1107)
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.load(LanguageConfiguration.java:270)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationDefinition.getLanguageConfiguration(LanguageConfigurationDefinition.java:157)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.AbstractLanguageConfigurationRegistryManager.getLanguageConfigurationFor(AbstractLanguageConfigurationRegistryManager.java:51)
-	at org.eclipse.tm4e.languageconfiguration.internal.registry.LanguageConfigurationRegistryManager.getLanguageConfigurationFor(LanguageConfigurationRegistryManager.java:1)
-	at org.eclipse.tm4e.languageconfiguration.internal.HasLanguageConfigurationPropertyTester.test(HasLanguageConfigurationPropertyTester.java:52)
-	at org.eclipse.core.internal.expressions.Property.test(Property.java:65)
-	at org.eclipse.core.expressions.TestExpression.evaluate(TestExpression.java:107)
-	at org.eclipse.core.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:54)
-	at org.eclipse.core.expressions.WithExpression.evaluate(WithExpression.java:84)
-	at org.eclipse.core.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:72)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isCoreExpressionVisible(ContributionsAnalyzer.java:263)
-	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isVisible(ContributionsAnalyzer.java:237)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.computeVisibility(ContributionRecord.java:167)
-	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:98)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:173)
-	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:184)
-	at org.eclipse.ui.internal.WorkbenchWindow.lambda$3(WorkbenchWindow.java:864)
-	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
-	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
-	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4058)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3676)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
-Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.eclipse.tm4e.core.internal.utils.NullSafetyHelper.lazyNonNull()'
-	at org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration.<init>(LanguageConfiguration.java:367)
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at com.google.gson.internal.ConstructorConstructor.lambda$newDefaultConstructor$8(ConstructorConstructor.java:267)
-	... 46 more
-
-!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-02 18:13:02.120
+!ENTRY org.eclipse.tm4e.languageconfiguration 4 0 2025-04-03 18:12:53.862
 !MESSAGE Failed to load language configuration: java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args
 !STACK 0
 java.lang.RuntimeException: Failed to invoke constructor 'org.eclipse.tm4e.languageconfiguration.internal.model.LanguageConfiguration()' with no args

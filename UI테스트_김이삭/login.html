@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='login.css'>
+    
+</head>
+<body>
+    <form class="container">
+        <div id="img">
+            <a href="http://koreaisacademy.com/"><img src="http://www.koreastudyroom.com/img/login_logo.jpg"></a>
+            <h2>PLEASE JOIN US</h2>
+        </div>
+
+        <div id="m_id">    
+            <h3>아이디</h3>
+            <input name="m_id" type="text" placeholder="아이디를 입력해 주세요">
+            <div id="idinput">소문자/숫자 4자 이상을 입력해 주세요</div>
+        </div>
+
+        <div id="m_pwd">
+            <h3>비밀번호</h3>
+            <input onchange="pwdconfig()" name="m_pwd" type="text" placeholder="비밀번호를 입력해 주세요">
+            <div id="pwdinput">8~20자의 영문 대소문자, 숫자, 특수문자를 사용하세요</div>
+        </div>
+        <div id="m_name">
+            <h3>이름</h3>
+            <input  name="m_name" type="text" placeholder="이름을 입력해 주세요">
+            <div id="nameinput"> </div>
+        </div>
+
+        <div id="m_email">
+            <h3>이메일</h3>
+            <input name="m_email" type="text" placeholder="이메일을 입력해 주세요">
+            <div id="emailinput">이메일을 입력해 주세요</div>
+        </div>
+
+        <div id="button">
+            <input type="button" value="가입 완료하기">
+        </div>
+
+        <script src='login.js'></script>
+
+    </form>
+    
+</body>
+</html>

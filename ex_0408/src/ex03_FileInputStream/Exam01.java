@@ -25,7 +25,7 @@ public class Exam01 {
 			String sentence = new String(read);
 			
 			
-			for(int i = 0;i <sentence.length();i++) {
+			for(int i = 0;i <sentence.length()/2;i++) {
 				
 				if(!(sentence.charAt(i)==sentence.charAt(sentence.length()-i-1))) {
 					System.out.println(sentence+"는 회문이 아닙니다.");

@@ -8,10 +8,14 @@ import java.lang.annotation.Target;
 //선언 키워드는 @interface
 //어노테이션을 적용할 타겟
 @Target(ElementType.TYPE)
-//어노테이션을 적용할 타켓
 
+//어노테이션의 유지 범위를 지정(런타임, 컴파일 등)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Testinfo {
+	
+	String name(); //추상메서드로 선언해야한다.
+	int career() default 1;
+	String[] skills();
 	//어노테이션의 속성은 메서드 형태로 정의한다.
 	
 	//어노테이션 속성의 반환형은 제한적이다.
@@ -29,6 +33,5 @@ public @interface Testinfo {
 	//속성은 매개변수를 가질 수 없다.
 	//String name(String input);
 	
-	String value() default "홍길동"; //추상메서드로 선언해야한다.
 	
 }

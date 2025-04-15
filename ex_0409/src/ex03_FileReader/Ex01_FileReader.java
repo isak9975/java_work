@@ -2,11 +2,14 @@ package ex03_FileReader;
 
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 
 public class Ex01_FileReader {
 	public static void main(String[] args) {
 		FileReader fr = null;
+
+		String string = "";
+		int[] ina = new int [5];
+		
 		
 		try {
 			fr = new FileReader("D:\\kimisak\\java\\java_work\\test.txt");
@@ -21,11 +24,12 @@ public class Ex01_FileReader {
 			e.printStackTrace();
 		} finally {
 			if(fr!=null) {
+				
 				try {
 					fr.close();
 				} catch (IOException e) {
 					e.printStackTrace();
-				} 
+				}				
 			}
 		}
 		

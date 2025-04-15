@@ -50,7 +50,6 @@
     <fullyQualifiedTypeName name="ex02_Oracle.EmpMethod"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="ex02_Oracle.DBUtil"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ex02_Oracle.PersonMethod"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
